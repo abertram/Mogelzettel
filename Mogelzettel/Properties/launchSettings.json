@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mogelzettel": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Alex\\source\\repos\\Mogelzettel\\feld1.txt C:\\Users\\Alex\\source\\repos\\Mogelzettel\\feld1mogel.txt"
+    }
+  }
+}
